@@ -1,4 +1,4 @@
-class cal
+class calculator
 {
     public float add(int a, int b)
     {
